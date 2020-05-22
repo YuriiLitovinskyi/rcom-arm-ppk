@@ -1,0 +1,5 @@
+node_modules/
+server-linux
+server-macos
+server-win.exe
+server.exe

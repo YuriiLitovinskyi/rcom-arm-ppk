@@ -1,0 +1,15 @@
+{
+  "name": "rcom-arm-ppk",
+  "version": "1.0.0",
+  "description": "App to arm rcom ppk",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yurii Litovinskyi",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "prompts": "^2.3.2"
+  }
+}
